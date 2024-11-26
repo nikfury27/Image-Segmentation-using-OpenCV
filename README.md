@@ -62,6 +62,6 @@ By combining these techniques, OpenCV provides powerful tools for segmenting and
 ---
 
 #### **Acknowledgement**
-  I express my sincere gratitude to <a href="https://github.com/Victor-Ikechukwu">**Dr. Victor A.I**</a> , [Professor, Maharaja Institute of Technology], for their invaluable guidance, constant encouragement, and insightful feedback throughout this mini-project. Their expertise and support have been instrumental in shaping the direction and successful completion of my work. 
+  I express my sincere gratitude to <a href="https://github.com/Victor-Ikechukwu">**Dr. Victor A.I.** , Professor at Maharaja Institute of Technology, for his invaluable guidance, constant encouragement, and insightful feedback throughout this mini-project. His expertise and support have been instrumental in shaping the direction and successful completion of my work.
 
-I am truly thankful for their mentorship and for providing me with the opportunity to learn and grow under their guidance.
+I am truly thankful for his mentorship and for providing me with the opportunity to learn and grow under his guidance.
